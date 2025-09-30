@@ -1,7 +1,6 @@
 "use client"
 import "@/app/ui/global.css";
-import { inter } from "@/app/ui/fonts";
-import { lusitana } from "./ui/fonts2";
+import { inter , lusitana } from "@/app/ui/fonts";
 
 export default function RootLayout({
   children,
